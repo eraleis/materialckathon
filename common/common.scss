@@ -45,3 +45,19 @@ body textarea {
   max-width: 100% !important;
   height: auto;
 }
+
+a.tag-insa-lyon.discourse-tag.box{
+  background-color:#E12420;
+  color : white;
+}
+a.tag-hec.discourse-tag.box{
+  background-color:#26314f;
+  color : white;
+}
+a.tag-insa-lyon.discourse-tag.box:before {
+  content: "🔒 ";
+}
+    
+a.tag-hec.discourse-tag.box:before {
+  content: "🔒 ";
+}
