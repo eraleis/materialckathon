@@ -205,6 +205,13 @@ a.tag-em-lyon.discourse-tag.box{
 a.tag-em-lyon.discourse-tag.box:before {
   content: "🔒 ";
 }
+a.tag-trinity.discourse-tag.box{
+  background-color: #1074b7;
+  color: white;
+}
+a.tag-trinity.discourse-tag.box:before {
+  content: "🔒 ";
+}
 
 /************ HIDE TITLE *************/
 .title-wrapper {
