@@ -212,6 +212,10 @@ a.tag-trinity.discourse-tag.box{
 a.tag-trinity.discourse-tag.box:before {
   content: "🔒 ";
 }
+a.tag-jobteaser.discourse-tag.box{
+  background-color: #00A34D;
+  color: white;
+}
 
 /************ HIDE TITLE *************/
 .title-wrapper {
